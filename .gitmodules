@@ -20,6 +20,10 @@
 [submodule "biblioformat"]
 	path = biblioformat
 	url = https://github.com/Pakillo/biblioformat
+[submodule "defender"]
+	path = defender
+	url = https://github.com/ropenscilabs/defender
+	registered = false
 [submodule "easyclimate"]
 	path = easyclimate
 	url = https://github.com/VeruGHub/easyclimate

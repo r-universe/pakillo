@@ -1,5 +1,11 @@
 [
   {
+    "package": "defender",
+    "url": "https://github.com/ropenscilabs/defender",
+    "via": ["safeinstall"],
+    "from": "safeinstall"
+  },
+  {
     "package": "velox",
     "url": "https://github.com/hunzikp/velox",
     "via": ["rgis"],
