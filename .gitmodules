@@ -59,3 +59,8 @@
 [submodule "vegetools"]
 	path = vegetools
 	url = https://github.com/Pakillo/vegetools
+[submodule "velox"]
+	path = velox
+	url = https://github.com/hunzikp/velox
+	branch = ff7bc3c
+	registered = false
