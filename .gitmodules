@@ -1,7 +1,61 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pakillo/pakillo.r-universe.dev
 	branch = HEAD
+[submodule "ANECAtools"]
+	path = ANECAtools
+	url = https://github.com/Pakillo/ANECAtools
+[submodule "CityShadeMapper"]
+	path = CityShadeMapper
+	url = https://github.com/Pakillo/CityShadeMapper
+[submodule "DHARMa.helpers"]
+	path = DHARMa.helpers
+	url = https://github.com/Pakillo/DHARMa.helpers
+[submodule "FloraIberica"]
+	path = FloraIberica
+	url = https://github.com/Pakillo/FloraIberica
+[submodule "aire"]
+	path = aire
+	url = https://github.com/SevillaR/aire
+[submodule "biblioformat"]
+	path = biblioformat
+	url = https://github.com/Pakillo/biblioformat
+[submodule "easyclimate"]
+	path = easyclimate
+	url = https://github.com/VeruGHub/easyclimate
+[submodule "effect.lndscp"]
+	path = effect.lndscp
+	url = https://github.com/pedroj/effectiveness_pckg
 [submodule "grateful"]
 	path = grateful
-	url = https://github.com/pakillo/grateful
+	url = https://github.com/Pakillo/grateful
+[submodule "labeleR"]
+	path = labeleR
+	url = https://github.com/EcologyR/labeleR
+[submodule "lump.split.pool.ENM"]
+	path = lump.split.pool.ENM
+	url = https://github.com/Pakillo/lump.split.pool.ENM
+[submodule "modules"]
+	path = modules
+	url = https://github.com/zoonproject/modules
+[submodule "proj4shortcut"]
+	path = proj4shortcut
+	url = https://github.com/jhollist/proj4shortcut
+[submodule "rSDM"]
+	path = rSDM
+	url = https://github.com/Pakillo/rSDM
+[submodule "rgis"]
+	path = rgis
+	url = https://github.com/Pakillo/rgis
+[submodule "rmdTemplates"]
+	path = rmdTemplates
+	url = https://github.com/Pakillo/rmdTemplates
+[submodule "safeinstall"]
+	path = safeinstall
+	url = https://github.com/Pakillo/safeinstall
+[submodule "template"]
+	path = template
+	url = https://github.com/Pakillo/template
+[submodule "vegetools"]
+	path = vegetools
+	url = https://github.com/Pakillo/vegetools
