@@ -14,6 +14,9 @@
 [submodule "FloraIberica"]
 	path = FloraIberica
 	url = https://github.com/Pakillo/FloraIberica
+[submodule "ZoonModules"]
+	path = ZoonModules
+	url = https://github.com/zoonproject/modules
 [submodule "aire"]
 	path = aire
 	url = https://github.com/SevillaR/aire
@@ -39,9 +42,6 @@
 [submodule "lump.split.pool.ENM"]
 	path = lump.split.pool.ENM
 	url = https://github.com/Pakillo/lump.split.pool.ENM
-[submodule "modules"]
-	path = modules
-	url = https://github.com/zoonproject/modules
 [submodule "proj4shortcut"]
 	path = proj4shortcut
 	url = https://github.com/jhollist/proj4shortcut
