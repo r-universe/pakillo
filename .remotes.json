@@ -1,9 +1,21 @@
 [
   {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["BayesianNetworks"],
+    "from": "BayesianNetworks"
+  },
+  {
     "package": "defender",
     "url": "https://github.com/ropenscilabs/defender",
     "via": ["safeinstall"],
     "from": "safeinstall"
+  },
+  {
+    "package": "network.tools",
+    "url": "https://github.com/Pakillo/network.tools",
+    "via": ["BayesianNetworks"],
+    "from": "BayesianNetworks"
   },
   {
     "package": "velox",
