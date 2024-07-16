@@ -5,6 +5,9 @@
 [submodule "ANECAtools"]
 	path = ANECAtools
 	url = https://github.com/Pakillo/ANECAtools
+[submodule "BayesianNetworks"]
+	path = BayesianNetworks
+	url = https://github.com/Pakillo/BayesianNetworks
 [submodule "CityShadeMapper"]
 	path = CityShadeMapper
 	url = https://github.com/Pakillo/CityShadeMapper
@@ -14,9 +17,9 @@
 [submodule "FloraIberica"]
 	path = FloraIberica
 	url = https://github.com/Pakillo/FloraIberica
-[submodule "ZoonModules"]
-	path = ZoonModules
-	url = https://github.com/zoonproject/modules
+[submodule "RecruitNetP"]
+	path = RecruitNetP
+	url = https://github.com/EcologyR/RecruitNetP
 [submodule "aire"]
 	path = aire
 	url = https://github.com/SevillaR/aire
@@ -42,6 +45,9 @@
 [submodule "lump.split.pool.ENM"]
 	path = lump.split.pool.ENM
 	url = https://github.com/Pakillo/lump.split.pool.ENM
+[submodule "network.tools"]
+	path = network.tools
+	url = https://github.com/Pakillo/network.tools
 [submodule "proj4shortcut"]
 	path = proj4shortcut
 	url = https://github.com/jhollist/proj4shortcut
