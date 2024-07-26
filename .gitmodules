@@ -52,6 +52,9 @@
 [submodule "network.tools"]
 	path = network.tools
 	url = https://github.com/Pakillo/network.tools
+[submodule "plants.around.me"]
+	path = plants.around.me
+	url = https://github.com/Pakillo/plants.around.me
 [submodule "proj4shortcut"]
 	path = proj4shortcut
 	url = https://github.com/jhollist/proj4shortcut
