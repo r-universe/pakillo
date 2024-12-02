@@ -5,9 +5,6 @@
 [submodule "ANECAtools"]
 	path = ANECAtools
 	url = https://github.com/Pakillo/ANECAtools
-[submodule "BayesianNetworks"]
-	path = BayesianNetworks
-	url = https://github.com/Pakillo/BayesianNetworks
 [submodule "CityShadeMapper"]
 	path = CityShadeMapper
 	url = https://github.com/Pakillo/CityShadeMapper
@@ -17,6 +14,9 @@
 [submodule "FloraIberica"]
 	path = FloraIberica
 	url = https://github.com/Pakillo/FloraIberica
+[submodule "NetBayes"]
+	path = NetBayes
+	url = https://github.com/Pakillo/NetBayes
 [submodule "RecruitNetP"]
 	path = RecruitNetP
 	url = https://github.com/EcologyR/RecruitNetP
