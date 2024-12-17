@@ -1,21 +1,9 @@
 [
   {
-    "package": "cmdstanr",
-    "url": "https://github.com/stan-dev/cmdstanr",
-    "via": ["NetBayes"],
-    "from": "NetBayes"
-  },
-  {
     "package": "defender",
     "url": "https://github.com/ropenscilabs/defender",
     "via": ["safeinstall"],
     "from": "safeinstall"
-  },
-  {
-    "package": "network.tools",
-    "url": "https://github.com/Pakillo/network.tools",
-    "via": ["NetBayes"],
-    "from": "NetBayes"
   },
   {
     "package": "velox",

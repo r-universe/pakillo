@@ -26,10 +26,6 @@
 [submodule "biblioformat"]
 	path = biblioformat
 	url = https://github.com/Pakillo/biblioformat
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
 [submodule "defender"]
 	path = defender
 	url = https://github.com/ropenscilabs/defender
