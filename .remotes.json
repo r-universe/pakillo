@@ -18,6 +18,12 @@
     "from": "BayesianWebs"
   },
   {
+    "package": "rWCVPdata",
+    "url": "https://github.com/matildabrown/rWCVPdata",
+    "via": ["taxonomy.tools"],
+    "from": "taxonomy.tools"
+  },
+  {
     "package": "velox",
     "url": "https://github.com/hunzikp/velox",
     "via": ["rgis"],

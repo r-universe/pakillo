@@ -61,6 +61,10 @@
 [submodule "rSDM"]
 	path = rSDM
 	url = https://github.com/Pakillo/rSDM
+[submodule "rWCVPdata"]
+	path = rWCVPdata
+	url = https://github.com/matildabrown/rWCVPdata
+	registered = false
 [submodule "rgis"]
 	path = rgis
 	url = https://github.com/Pakillo/rgis
