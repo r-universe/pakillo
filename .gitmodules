@@ -5,6 +5,9 @@
 [submodule "ANECAtools"]
 	path = ANECAtools
 	url = https://github.com/Pakillo/ANECAtools
+[submodule "BayesianWebs"]
+	path = BayesianWebs
+	url = https://github.com/Pakillo/BayesianWebs
 [submodule "CityShadeMapper"]
 	path = CityShadeMapper
 	url = https://github.com/Pakillo/CityShadeMapper
@@ -14,9 +17,6 @@
 [submodule "FloraIberica"]
 	path = FloraIberica
 	url = https://github.com/Pakillo/FloraIberica
-[submodule "NetBayes"]
-	path = NetBayes
-	url = https://github.com/Pakillo/NetBayes
 [submodule "RecruitNetP"]
 	path = RecruitNetP
 	url = https://github.com/EcologyR/RecruitNetP
@@ -66,6 +66,9 @@
 [submodule "safeinstall"]
 	path = safeinstall
 	url = https://github.com/Pakillo/safeinstall
+[submodule "taxonomy.tools"]
+	path = taxonomy.tools
+	url = https://github.com/Pakillo/taxonomy.tools
 [submodule "template"]
 	path = template
 	url = https://github.com/Pakillo/template
