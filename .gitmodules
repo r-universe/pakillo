@@ -8,6 +8,9 @@
 [submodule "BayesianWebs"]
 	path = BayesianWebs
 	url = https://github.com/Pakillo/BayesianWebs
+[submodule "BlueCarbon"]
+	path = BlueCarbon
+	url = https://github.com/EcologyR/BlueCarbon
 [submodule "CityShadeMapper"]
 	path = CityShadeMapper
 	url = https://github.com/Pakillo/CityShadeMapper
