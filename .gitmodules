@@ -8,9 +8,6 @@
 [submodule "BayesianWebs"]
 	path = BayesianWebs
 	url = https://github.com/Pakillo/BayesianWebs
-[submodule "BlueCarbon"]
-	path = BlueCarbon
-	url = https://github.com/EcologyR/BlueCarbon
 [submodule "CityShadeMapper"]
 	path = CityShadeMapper
 	url = https://github.com/Pakillo/CityShadeMapper
@@ -46,9 +43,6 @@
 [submodule "grateful"]
 	path = grateful
 	url = https://github.com/Pakillo/grateful
-[submodule "labeleR"]
-	path = labeleR
-	url = https://github.com/EcologyR/labeleR
 [submodule "lump.split.pool.ENM"]
 	path = lump.split.pool.ENM
 	url = https://github.com/Pakillo/lump.split.pool.ENM
@@ -58,9 +52,6 @@
 [submodule "plants.around.me"]
 	path = plants.around.me
 	url = https://github.com/Pakillo/plants.around.me
-[submodule "proj4shortcut"]
-	path = proj4shortcut
-	url = https://github.com/jhollist/proj4shortcut
 [submodule "rSDM"]
 	path = rSDM
 	url = https://github.com/Pakillo/rSDM
