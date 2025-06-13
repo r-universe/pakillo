@@ -17,9 +17,6 @@
 [submodule "FloraIberica"]
 	path = FloraIberica
 	url = https://github.com/Pakillo/FloraIberica
-[submodule "RecruitNetP"]
-	path = RecruitNetP
-	url = https://github.com/EcologyR/RecruitNetP
 [submodule "aire"]
 	path = aire
 	url = https://github.com/SevillaR/aire
