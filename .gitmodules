@@ -23,14 +23,6 @@
 [submodule "biblioformat"]
 	path = biblioformat
 	url = https://github.com/Pakillo/biblioformat
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
-[submodule "defender"]
-	path = defender
-	url = https://github.com/ropenscilabs/defender
-	registered = false
 [submodule "easyclimate"]
 	path = easyclimate
 	url = https://github.com/VeruGHub/easyclimate
@@ -52,14 +44,6 @@
 [submodule "rSDM"]
 	path = rSDM
 	url = https://github.com/Pakillo/rSDM
-[submodule "rWCVP"]
-	path = rWCVP
-	url = https://github.com/matildabrown/rWCVP
-	registered = false
-[submodule "rWCVPdata"]
-	path = rWCVPdata
-	url = https://github.com/matildabrown/rWCVPdata
-	registered = false
 [submodule "rgis"]
 	path = rgis
 	url = https://github.com/Pakillo/rgis
@@ -78,8 +62,3 @@
 [submodule "vegetools"]
 	path = vegetools
 	url = https://github.com/Pakillo/vegetools
-[submodule "velox"]
-	path = velox
-	url = https://github.com/hunzikp/velox
-	branch = ff7bc3c
-	registered = false
